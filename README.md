@@ -1,6 +1,6 @@
 <h1 align="center">Mikedolding Milestone Project 1</h1>
 
-- [Webzinoy!](#Webzinoy!)
+- [Webfree Legal Tech](#Webfree Legal Tech)
   - [Overview](#overview)
   - [User Experience (UX)](#User-Experience)
   - [Design](#design)
