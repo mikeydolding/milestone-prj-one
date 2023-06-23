@@ -16,7 +16,7 @@
   - [Credits & Attributions](#credits)
   - [Acknowledgements](#acknowledgements)
 
-## Webzinoy! [View the live project here.](https://mikeydolding.github.io/milestone-project-two/)
+## WebfreeLegalTech [View the live project here.](https://mikeydolding.github.io/milestone-prj-one/)
 
 ## Overview
 
