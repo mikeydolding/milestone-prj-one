@@ -129,6 +129,14 @@ git clone https://mikeydolding.github.io/milestone-prj-one/
 
 ## Credits
 
+### Media
+
+- Thank-you-word-cloud.jpg, [iStock](https://www.2civility.org/wp-content/uploads/2020/11/iStock_000021336287_Medium-1.jpg)
+
+- Firm-forum-group-photo.jpg, [Autistic-Workforce-3.16.20-2-1536x864.jpg](https://www.currentschoolnews.com/wp-content/uploads/2021/06/Autistic-Workforce-3.16.20-2-1536x864.jpg)
+
+- Personal.jpg, [Team2](https://teamfactory.kz/wp-content/uploads/personal.jpg)
+
 ### Code
 
 - [Bootstrap 5.2.3:](https://getbootstrap.com/docs/5.2.3/)
